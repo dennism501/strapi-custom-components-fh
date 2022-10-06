@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_about_natures",
+  "info": {
+    "displayName": "nature"
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "text"
+    }
+  }
+}

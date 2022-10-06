@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_about_comapany_away_days",
+  "info": {
+    "displayName": "comapany-away-days"
+  },
+  "options": {},
+  "attributes": {
+    "days": {
+      "type": "string"
+    }
+  }
+}

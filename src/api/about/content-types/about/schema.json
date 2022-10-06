@@ -1,0 +1,36 @@
+{
+  "kind": "singleType",
+  "collectionName": "abouts",
+  "info": {
+    "singularName": "about",
+    "pluralName": "abouts",
+    "displayName": "About",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Values": {
+      "type": "component",
+      "repeatable": false,
+      "component": "about.values"
+    },
+    "Awards": {
+      "type": "component",
+      "repeatable": false,
+      "component": "about.awards"
+    },
+    "Garwnant": {
+      "type": "component",
+      "repeatable": false,
+      "component": "about.garwnant"
+    },
+    "ForestryComission": {
+      "type": "component",
+      "repeatable": false,
+      "component": "about.forestry-commission"
+    }
+  }
+}

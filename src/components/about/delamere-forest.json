@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_about_delamere_forests",
+  "info": {
+    "displayName": "delamere-forest"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "text"
+    }
+  }
+}

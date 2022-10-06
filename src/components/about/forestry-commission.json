@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_about_forestry_commissions",
+  "info": {
+    "displayName": "forestry-commission"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "value": {
+      "type": "string"
+    }
+  }
+}

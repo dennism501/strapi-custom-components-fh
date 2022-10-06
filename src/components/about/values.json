@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_about_values",
+  "info": {
+    "displayName": "values",
+    "icon": "info-circle"
+  },
+  "options": {},
+  "attributes": {
+    "aim": {
+      "type": "string"
+    }
+  }
+}

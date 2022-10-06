@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_about_people",
+  "info": {
+    "displayName": "people"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}

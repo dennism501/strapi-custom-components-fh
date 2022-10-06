@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_about_garwnants",
+  "info": {
+    "displayName": "garwnant"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
